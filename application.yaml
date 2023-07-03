@@ -1,7 +1,7 @@
 message:
-  value: hello
+  value: How Are You
 eureka:
   instance:
     client:
       serverUrl:
-        defaultZone=http://localhost:8
+        defaultZone=http://localhost:8071/eureka
