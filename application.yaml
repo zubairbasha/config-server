@@ -1,5 +1,5 @@
 message:
-  value: Good to See you.
+  value: What about you
 eureka:
   instance:
     client:
