@@ -1,5 +1,5 @@
 message:
-  value: What about you
+  value: I am Fine here
 eureka:
   instance:
     client:
